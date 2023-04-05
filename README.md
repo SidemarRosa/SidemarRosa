@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hello people! Buenas! ?<br>Me chamo Sidemar, tenho 24 anos, <br>Cursando análise e desenvolvimento de sistemas <br><br>💻 Programador Front-End<br>🏆  Buscando entrar na área de desenvolvimento<br>🔎 Interesse em estagio ou vaga de desenvolvedor júnior<br>
 
 
