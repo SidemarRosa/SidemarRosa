@@ -25,3 +25,6 @@ Hello people! Buenas! ?<br>Me chamo Sidemar, tenho 24 anos, <br>Cursando anális
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SidemarRosa&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
+
+
+[![](https://visitcount.itsvg.in/api?id=SidemarRosa&icon=6&color=3)](https://visitcount.itsvg.in)
