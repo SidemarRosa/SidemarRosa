@@ -1,11 +1,10 @@
 Hello people! Buenas! ?<br>Me chamo Sidemar, tenho 24 anos, <br>Cursando análise e desenvolvimento de sistemas <br><br>💻 Programador Front-End<br>🏆  Buscando entrar na área de desenvolvimento<br>🔎 Interesse em estagio ou vaga de desenvolvedor júnior<br>
 
 
- 🌐 Redes Sociais:<br>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100005529724561) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/siderosa25/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sidemarrosa25/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/169682) <br>
+ 🌐 Redes Sociais: <br>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100005529724561) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/siderosa25/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sidemarrosa25/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/169682) 
 
-
-
+<br>
 💻 Conhecimentos:<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Side-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
