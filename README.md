@@ -1,20 +1,15 @@
 <div align="center" text-align="justity">
  
 Hello people! Buenas!?<br>Me chamo Sidemar, tenho 25 anos, <br>Cursando análise e desenvolvimento de sistemas <br><br>💻 Programador Full-Stack<br>🏆  Buscando entrar na área de desenvolvimento<br>🔎 Interesse em estagio ou vaga de desenvolvedor júnior<br>
-
 </div>
-
 <div align="center">
  🌐 Redes Sociais: <br>
  </div>
- 
  <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sidemarrosa25/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/169682) 
 
 </div>
-<br>
-
 <div align="center">
  
 # 💻 Tech Stack:
@@ -24,18 +19,17 @@ Hello people! Buenas!?<br>Me chamo Sidemar, tenho 25 anos, <br>Cursando análise
 </div>
 
 <div align="center">
-
+ 
 # 📊 GitHub Stats:
  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SidemarRosa&theme=react&hide_border=false) 
-<br>
-
 </div>
-
 <div align="center">
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SidemarRosa&theme=react&line_height=40&hide=css"/> </a>
+ 
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SidemarRosa&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=#fff&text_color=FFF)
+ <br>
+<a href=""> <img align="center" width="450px" color="#fff" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SidemarRosa&theme=react&line_height=40&hide=css"/> </a>
 </div>
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{SidemarRosa}/count.svg" /></p> 
