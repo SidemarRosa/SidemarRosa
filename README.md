@@ -1,6 +1,6 @@
 <div align="center" text-align="justity">
  
-Hello people! Buenas!?<br>Me chamo Sidemar, tenho 25 anos, <br>Cursando análise e desenvolvimento de sistemas <br><br>💻 Programador Full-Stack<br>🏆  Buscando entrar na área de desenvolvimento<br>🔎 Interesse em estagio ou vaga de desenvolvedor júnior<br>
+Hello people! Buenas!?<br>Me chamo Sidemar, tenho 25 anos, <br>Cursando análise e desenvolvimento de sistemas <br><br>💻 Programador Full-Stack<br>🏆 Estagiario de pesquisa e desenvolvimento na empresa Ecossis soluções ambientais<br>
 </div>
 <div align="center">
  🌐 Redes Sociais: <br>
