@@ -21,7 +21,7 @@ Hello people! Buenas!?<br>Me chamo Sidemar, tenho 25 anos, <br>Cursando análise
  
 # 📊 GitHub Stats:
  
-![](https://github-readme-streak-stats.herokuapp.com/?user=SidemarRosa&theme=react&hide_border=false) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidemarRosa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div align="center">
  
