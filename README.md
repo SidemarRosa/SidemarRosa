@@ -3,6 +3,7 @@
 ## 💼 Perfil Profissional
 
 - 💻 Estudante de Programação
+- 💻 Estagiario programação fullstack
 - 🌱 Apaixonado por Tecnologia e inovação.
 - 🎓 Cursando Análise e desenvolvimento de sistemas na Fadergs
 
