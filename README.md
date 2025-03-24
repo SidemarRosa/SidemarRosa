@@ -1,18 +1,17 @@
-#  Hello people! Buenas!? Me chamo Sidemar Rosa, Dev full-stack junior
+#  Hello people! Buenas!? Me chamo Sidemar Rosa
 
 ## 💼 Perfil Profissional
 
-- 💻 Estudante de Programação
-- 💻 Estagiario programação fullstack
+- 💻 Estudante de Programação - Cursando Análise e desenvolvimento de sistemas na Fadergs
+- 💻 Desenvolvedor Full-stack junior
 - 🌱 Apaixonado por Tecnologia e inovação.
-- 🎓 Cursando Análise e desenvolvimento de sistemas na Fadergs
 
 ## 🚀 Habilidades
 
 Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
 
 ## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=java,php,javascript,typescript,python,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,javascript,nodejs)](https://skillicons.dev)
 
 ## 🧰 Frameworks & Library: 
 [![My Skills](https://skillicons.dev/icons?i=angular,laravel,react,jquery,spring,tailwind,bootstrap)](https://skillicons.dev)
