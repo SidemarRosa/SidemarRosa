@@ -1,4 +1,4 @@
-#  Hello people! Buenas!? Me chamo Sidemar Rosa
+#  Hello World! Buenas!? Me chamo Sidemar Rosa
 
 ## 💼 Perfil Profissional
 
