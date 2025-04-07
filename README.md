@@ -1,36 +1,75 @@
-#  Hello World! Buenas!? Me chamo Sidemar Rosa
+<h1 align="center">Hello, World! 🌍 Buenas! Me chamo <strong>Sidemar Rosa</strong> 👋</h1>
 
-## 💼 Perfil Profissional
+<p align="center">💻 Desenvolvedor Full Stack Jr | 🎓 Estudante de ADS na FADERGS | 🚀 Apaixonado por tecnologia e inovação</p>
 
-- 💻 Estudante de Programação - Cursando Análise e desenvolvimento de sistemas na Fadergs
-- 💻 Desenvolvedor Full-stack junior
-- 🌱 Apaixonado por Tecnologia e inovação.
+---
 
-## 🚀 Habilidades
+## 💼 Sobre mim
 
-Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
+Sou um desenvolvedor em constante evolução, sempre em busca de aprender e explorar novas tecnologias. Atualmente, curso **Análise e Desenvolvimento de Sistemas na FADERGS** e tenho me aprofundado no ecossistema full stack, atuando tanto no front quanto no back-end.
 
-## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=java,php,javascript,nodejs)](https://skillicons.dev)
+---
 
-## 🧰 Frameworks & Library: 
-[![My Skills](https://skillicons.dev/icons?i=angular,laravel,react,jquery,spring,tailwind,bootstrap)](https://skillicons.dev)
+## 🚀 Minhas Habilidades
 
-## 🗄️ Bancos de Dados: 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
-## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse,notion,docker,npm,idea,stackoverflow,figma,wordpress)](https://skillicons.dev)<br><br>
+### 👨‍💻 Linguagens
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
-## 📫 Contato
+### 🧰 Frameworks & Bibliotecas
+[![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![jQuery](https://skillicons.dev/icons?i=jquery)](https://skillicons.dev)
+[![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 
-![Gmail Badge](https://img.shields.io/badge/-sidemarrosa25@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sidemarrosa25@gmail.com)
-[![Linkedin: Sidemar](https://img.shields.io/badge/-Sidemar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/sidemar-rosa)
-<br>
+### 🗄️ Bancos de Dados
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 
-![Sidemar Rosa GitHub stats](https://github-readme-stats.vercel.app/api?username=SidemarRosa&show_icons=true&theme=dark) <br><br>
-<br>
+### ⚙️ Ferramentas & Plataformas
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev)
+[![IntelliJ](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![Notion](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
+[![NPM](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+[![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![WordPress](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
+
+---
+
+### 📫 Entre em Contato Comigo
+
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SidemarRosa}/count.svg" /></p> 
-<br>
+  <a href="mailto:sidemarrosa25@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-sidemarrosa25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/sidemar-rosa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sidemar%20Rosa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/555195424692" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="https://anchorstec.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-Visite%20aqui-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <br>
+  <p><b>📈 Contador de visitantes</b></p>
+  <img src="https://profile-counter.glitch.me/SidemarRosa/count.svg" />
 </div>
