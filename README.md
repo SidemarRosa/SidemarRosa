@@ -50,7 +50,7 @@ Sou um desenvolvedor em constante evolução, sempre em busca de aprender e expl
 
 <div align="center">
   <a href="mailto:sidemar.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-sidemarrosa25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-sidemar.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
   <a href="https://www.linkedin.com/in/sidemar-rosa" target="_blank">
