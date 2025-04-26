@@ -49,7 +49,7 @@ Sou um desenvolvedor em constante evolução, sempre em busca de aprender e expl
 ### 📫 Entre em Contato Comigo
 
 <div align="center">
-  <a href="mailto:sidemarrosa25@gmail.com" target="_blank">
+  <a href="mailto:sidemar.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-sidemarrosa25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
